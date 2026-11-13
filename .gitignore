@@ -1,0 +1,26 @@
+
+# Segredos e configurações privadas
+.env
+.env.*
+!.env.example
+secrets/
+private/
+
+# Java e Gradle
+.gradle/
+build/
+out/
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
